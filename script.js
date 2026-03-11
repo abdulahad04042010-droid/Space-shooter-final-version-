@@ -173,7 +173,7 @@ function update(){
   else if(gameState==="intro"){
     ctx.fillStyle="white";
     ctx.font="26px Arial";
-    ctx.fillText("MADE BY ( Abdul Dinh )",50,280);
+    ctx.fillText("MADE BY ( Abdul )",50,280);
     ctx.fillText("Click to Start",120,320);
   }
 
